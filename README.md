@@ -2,7 +2,7 @@
 
 ### 🛡️ Candidato a Ingeniería de Ciberseguridad
 
-Soy estudiante de Ingeniería de Ciberseguridad en SENATI, actualmente cursando el IV ciclo.
+Actualmente curso el IV ciclo de Ingeniería de Ciberseguridad en SENATI.
 
 Me encuentro desarrollando conocimientos en redes, administración de sistemas Linux y seguridad de la información mediante formación académica y prácticas de laboratorio.
 
