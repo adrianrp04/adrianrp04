@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Adrián Ramos
 
-<!--
-**adrianrp04/adrianrp04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Candidato a Ingeniería de Ciberseguridad
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería de Ciberseguridad en SENATI, actualmente cursando el IV ciclo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encuentro desarrollando conocimientos en redes, administración de sistemas Linux y seguridad de la información mediante formación académica y prácticas de laboratorio.
+
+Continúo fortaleciendo mi perfil a través de proyectos académicos, laboratorios y certificaciones relacionadas con ciberseguridad y redes.
+
+## 🔐 Áreas de conocimiento
+
+- 🐧 Administración de sistemas Linux
+- 🌐 Redes y protocolos
+- 🔒 Seguridad de la información
+- 🖥️ Virtualización con VirtualBox y VMware Workstation
+- 🔧 Servicios de red: SSH y DHCP
